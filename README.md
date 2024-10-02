@@ -18,6 +18,7 @@
   - [Tests](#tests)
   - [Questions](#questions)
   - [Link](#link)
+  - [Screenshots](#screenshots)
 
   ## Installation
   Installation is not required, rather consumers may visit the deployed link.
@@ -42,3 +43,8 @@
 
   ## Link
   Deployed Link: [ kanban-login-board.onrender.com](https://kanban-login-board.onrender.com/)
+
+  ## Screenshots
+  ![Kandban1](https://github.com/user-attachments/assets/5c4ffdbe-5a7a-4504-9874-fa1ecee7cf10) ![Kanban2](https://github.com/user-attachments/assets/c7c4e4f6-67c2-4dae-9d81-bd91dd2d8d18)
+
+
